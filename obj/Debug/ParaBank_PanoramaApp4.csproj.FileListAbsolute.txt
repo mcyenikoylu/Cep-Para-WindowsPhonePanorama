@@ -1,0 +1,14 @@
+c:\users\cenkyenikoylu\documents\visual studio 2010\Projects\ParaBank_PanoramaApp4\ParaBank_PanoramaApp4\Bin\Debug\ApplicationIcon.png
+c:\users\cenkyenikoylu\documents\visual studio 2010\Projects\ParaBank_PanoramaApp4\ParaBank_PanoramaApp4\Bin\Debug\Background.png
+c:\users\cenkyenikoylu\documents\visual studio 2010\Projects\ParaBank_PanoramaApp4\ParaBank_PanoramaApp4\Bin\Debug\ParaBank_PanoramaApp4.dll
+c:\users\cenkyenikoylu\documents\visual studio 2010\Projects\ParaBank_PanoramaApp4\ParaBank_PanoramaApp4\Bin\Debug\ParaBank_PanoramaApp4.pdb
+c:\users\cenkyenikoylu\documents\visual studio 2010\Projects\ParaBank_PanoramaApp4\ParaBank_PanoramaApp4\Bin\Debug\AppManifest.xaml
+c:\users\cenkyenikoylu\documents\visual studio 2010\Projects\ParaBank_PanoramaApp4\ParaBank_PanoramaApp4\Bin\Debug\ParaBank_PanoramaApp4.xap
+c:\users\cenkyenikoylu\documents\visual studio 2010\Projects\ParaBank_PanoramaApp4\ParaBank_PanoramaApp4\Bin\Debug\Microsoft.Phone.Controls.dll
+c:\users\cenkyenikoylu\documents\visual studio 2010\Projects\ParaBank_PanoramaApp4\ParaBank_PanoramaApp4\Bin\Debug\Microsoft.Phone.Controls.xml
+c:\users\cenkyenikoylu\documents\visual studio 2010\Projects\ParaBank_PanoramaApp4\ParaBank_PanoramaApp4\obj\Debug\App.g.i.cs
+c:\users\cenkyenikoylu\documents\visual studio 2010\Projects\ParaBank_PanoramaApp4\ParaBank_PanoramaApp4\obj\Debug\MainPage.g.i.cs
+c:\users\cenkyenikoylu\documents\visual studio 2010\Projects\ParaBank_PanoramaApp4\ParaBank_PanoramaApp4\obj\Debug\ParaBank_PanoramaApp4.g.resources
+c:\users\cenkyenikoylu\documents\visual studio 2010\Projects\ParaBank_PanoramaApp4\ParaBank_PanoramaApp4\obj\Debug\ParaBank_PanoramaApp4.dll
+c:\users\cenkyenikoylu\documents\visual studio 2010\Projects\ParaBank_PanoramaApp4\ParaBank_PanoramaApp4\obj\Debug\ParaBank_PanoramaApp4.pdb
+c:\users\cenkyenikoylu\documents\visual studio 2010\Projects\ParaBank_PanoramaApp4\ParaBank_PanoramaApp4\obj\Debug\XapCacheFile.xml
