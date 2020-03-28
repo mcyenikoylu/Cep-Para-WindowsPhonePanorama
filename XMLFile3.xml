@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<madenler tarih="4/10/2012">
+  <maden deger="altin">
+    <lira>103.301,00</lira>
+    <dolar></dolar>
+    <euro></euro>
+  </maden>
+  <maden deger="gumus">
+    <lira>203.301,00</lira>
+    <dolar></dolar>
+    <euro></euro>
+  </maden>
+  <maden deger="platin">
+    <lira>303.301,00</lira>
+    <dolar></dolar>
+    <euro></euro>
+  </maden>
+</madenler>

@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type='text/xsl' href='mtl_fiyat_xsl.xsl'?>
+<IGE>
+  <IGE_GUN>
+    <gun>
+      4/10/2012
+    </gun>
+  </IGE_GUN>
+  <TL>
+    <altindeger>
+      103.301
+    </altindeger>
+    <gumusdeger>
+      2.017
+    </gumusdeger>
+    <platindeger>
+      98.651
+    </platindeger>
+  </TL>
+  <DOLAR>
+    <altindeger>
+      1.785
+    </altindeger>
+    <gumusdeger>
+      34
+    </gumusdeger>
+    <platindeger>
+      1.699
+    </platindeger>
+  </DOLAR>
+  <EURO>
+    <altindeger>
+      1.381
+    </altindeger>
+    <gumusdeger>
+      27
+    </gumusdeger>
+    <platindeger>
+      1.312
+    </platindeger>
+  </EURO>
+</IGE>
